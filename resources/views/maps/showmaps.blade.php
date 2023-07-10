@@ -133,7 +133,6 @@ Maps
                 draggable: false,
                 labelClass: "labels",
                 label: {
-                    //text: value[2],
                     color: 'black',
                     fontWeight: 'normal',
                     className: 'labels',
@@ -177,7 +176,6 @@ Maps
                 draggable: false,
                 labelClass: "labels",
                 label: {
-                    //text: value[2],
                     color: 'black',
                     fontWeight: 'normal',
                     className: 'labels',
